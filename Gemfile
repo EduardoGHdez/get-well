@@ -22,7 +22,7 @@ gem 'turbolinks', '~> 5'
 gem 'webpacker', '~> 4.0'
 
 group :development, :test do
-  gem 'factory_bot'
+  gem 'factory_bot_rails'
   gem 'pry-rails'
   gem 'rspec-rails'
 end
