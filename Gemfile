@@ -11,6 +11,7 @@ gem 'aws-sdk-s3', '~> 1.8.2'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'bootstrap'
 gem 'bootstrap_form'
+gem 'clearance'
 gem 'dotenv-rails', groups: %i[development test]
 gem 'haml'
 gem 'jbuilder', '~> 2.5'
